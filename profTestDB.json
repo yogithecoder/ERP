@@ -1,0 +1,112 @@
+[
+    {
+        "emp_id": 2019,
+        "emp_skills": [
+            "nodejs",
+            "express",
+            "Cpp"
+        ],
+        "emp_projects": [
+            "Website for Trekking"
+        ],
+        "past_experience": [
+            "MGM - 3 months"
+        ],
+        "certifications": [
+            "Udemy- Web development"
+        ]
+    },
+    {
+        "emp_id": 2024,
+        "emp_skills": [
+            "Wordpress",
+            "nodejs"
+        ],
+        "emp_projects": [
+            "Website for Trekking"
+        ],
+        "past_experience": [
+            "ADT - 3 months"
+        ],
+        "certifications": [
+            "Udemy- Web development"
+        ]
+    },
+    {
+        "emp_id": 2031,
+        "emp_skills": [
+            "typescript",
+            "nodejs",
+            "express",
+            "Cpp"
+        ],
+        "emp_projects": [
+            "Website for Trekking",
+            "Software for textile Industry",
+            "Water DB App"
+        ],
+        "past_experience": [
+            "MGM - 3 months",
+            "Giz - 6 months"
+        ],
+        "certifications": [
+            "Udemy- Web development",
+            "Udemy- Python bootcamp"
+        ]
+    },
+    {
+        "emp_id": 2043,
+        "emp_skills": [
+            "Wordpress",
+            "nodejs",
+            "C"
+        ],
+        "emp_projects": [
+            "Website for Trekking",
+            "cocoon website",
+            "Water DB App"
+        ],
+        "past_experience": [
+            "ADT - 6 months"
+        ],
+        "certifications": [
+            "Udemy- Web development"
+        ]
+    },
+    {
+        "emp_id": 2055,
+        "emp_skills": [
+            "html",
+            "CSS",
+            "JS"
+        ],
+        "emp_projects": [
+            "App for ERP",
+            "portfolio website"
+        ],
+        "past_experience": [
+            "Magic Flare - 6 months"
+        ],
+        "certifications": [
+            "Udemy- Web development"
+        ]
+    },
+    {
+        "emp_id": 2056,
+        "emp_skills": [
+            "html",
+            "CSS",
+            "JS"
+        ],
+        "emp_projects": [
+            "App for ERP",
+            "portfolio website"
+        ],
+        "past_experience": [
+            "Magic Flare - 6 months"
+        ],
+        "certifications": [
+            "Udemy- Web development"
+        ]
+    }
+]
