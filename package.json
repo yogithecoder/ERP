@@ -2,12 +2,12 @@
   "name": "erp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": " jest",
     "start": "tsc --watch",
-    "test-server": "SET NODE_ENV = testing & nodemon ./dest/app.js",
-    "dev": "SET NODE_ENV = developement & nodemon ./dest/app.js",
+    "test-server": "SET NODE_ENV=testing&& nodemon ./dest/app.js",
+    "dev": "SET NODE_ENV=development&& nodemon ./dest/app.js",
     "coverage": "jest --collect-coverage"
   },
   "keywords": [],
@@ -15,11 +15,11 @@
   "license": "ISC",
   "dependencies": {
     "@joi/date": "^2.1.0",
+    "cross-env": "^7.0.3",
     "joi": "^17.9.2",
     "nodemon": "^2.0.22"
   },
   "devDependencies": {
-
     "@types/config": "^3.3.0",
     "@types/jest": "^29.5.1",
     "@types/node": "^18.16.1",

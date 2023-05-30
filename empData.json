@@ -1,1 +1,81 @@
-[{"emp_id":2019,"emp_name":"Pratik Patharkar","emp_dob":"20-03-01","emp_skills":["html","CSS","JS","Python"],"emp_doj":"26-04-23","emp_level":"Intern","supervisor":"Developer"},{"emp_id":2031,"emp_name":"Yogesh Parmar","emp_dob":"03-04-02","emp_skills":["C","Javascript"],"emp_doj":"26-04-23","emp_level":"Intern","supervisor":"Developer"},{"emp_id":2043,"emp_name":"Shreya Bende","emp_dob":"14-08-01","emp_skills":["Wordpress","nodejs","C"],"emp_doj":"26-04-23","emp_level":"Intern","supervisor":"Developer"},{"emp_id":2055,"emp_name":"Ateeq Ur Rehman","emp_dob":"20-03-01","emp_skills":["html","CSS","JS"],"emp_doj":"26-04-23","emp_level":"Intern","supervisor":"Developer"},{"emp_id":2056,"emp_name":"Faizan Khan","emp_dob":"12-10-00","emp_skills":["html","CSS","JS"],"emp_doj":"26-04-23","emp_level":"Intern","supervisor":"Developer"},{"emp_id":2149,"emp_name":"Anuja Jaiswal","emp_dob":"27/01/01","emp_skills":["html","CSS","JS","Python"],"emp_doj":"26/04/23","emp_level":"Intern","supervisor":"Developer"}]
+[
+    {
+        "emp_id": 2019,
+        "emp_name": "Pratik Patharkar",
+        "emp_dob": "20-03-01",
+        "emp_skills": [
+            "html",
+            "CSS",
+            "JS",
+            "Python"
+        ],
+        "emp_doj": "26-04-23",
+        "emp_level": "Intern",
+        "supervisor": "Developer"
+    },
+    {
+        "emp_id": 2024,
+        "emp_name": "Vedant Khajekar",
+        "emp_dob": "14-08-01",
+        "emp_skills": [
+            "Wordpress",
+            "nodejs"
+        ],
+        "emp_doj": "26-04-23",
+        "emp_level": "Intern",
+        "supervisor": "Developer"
+    },
+    {
+        "emp_id": 2031,
+        "emp_name": "Yogesh Parmar",
+        "emp_dob": "03-04-02",
+        "emp_skills": [
+            "typescript",
+            "nodejs",
+            "express",
+            "Cpp"
+        ],
+        "emp_doj": "26-04-23",
+        "emp_level": "Intern",
+        "supervisor": "Developer"
+    },
+    {
+        "emp_id": 2043,
+        "emp_name": "Shreya Bende",
+        "emp_dob": "14-08-01",
+        "emp_skills": [
+            "Wordpress",
+            "nodejs",
+            "C"
+        ],
+        "emp_doj": "26-04-23",
+        "emp_level": "Intern",
+        "supervisor": "Developer"
+    },
+    {
+        "emp_id": 2055,
+        "emp_name": "Ateeq Ur Rehman",
+        "emp_dob": "20-03-01",
+        "emp_skills": [
+            "html",
+            "CSS",
+            "JS"
+        ],
+        "emp_doj": "26-04-23",
+        "emp_level": "Intern",
+        "supervisor": "Developer"
+    },
+    {
+            "emp_id": 2056,
+            "emp_name": "Faizan Khan",
+            "emp_dob": "12-10-00",
+            "emp_skills": [
+                "html",
+                "CSS",
+                "JS"
+            ],
+            "emp_doj": "26-04-23",
+            "emp_level": "Intern",
+            "supervisor": "Developer"
+    }
+]

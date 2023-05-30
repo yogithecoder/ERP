@@ -1,18 +1,22 @@
 import * as fs from 'fs';
 import * as test from "../config/testing";
 import * as dev from "../config/development";
-// import { DBPath, personalDBPath, profDBPath } from '../variables';
 
-if(process.env.NODE_ENV = "testing"){
-    var DBPath = test.testEmpDBPath;
-    var profDBPath = test.testProfDBPath;
-    var personalDBPath = test.testPersonalDBPath;
+let DBPath : string, profDBPath : string, personalDBPath:string;
+
+if(process.env.NODE_ENV == "testing"){
+    console.log("Testing Environment is running now");
+    DBPath = test.testEmpDBPath;
+    profDBPath = test.testProfDBPath;
+    personalDBPath = test.testPersonalDBPath;
 }
-if(process.env.NODE_ENV = "development"){
-    var DBPath = dev.empDBPath;
-    var profDBPath = dev.profDBPath;
-    var personalDBPath = dev.personalDBPath;
+if(process.env.NODE_ENV == "development"){
+    console.log("Development Environment is running now");
+    DBPath = dev.empDBPath;
+    profDBPath = dev.profDBPath;
+    personalDBPath = dev.personalDBPath;
 }
+
 
 
 // empData functions
